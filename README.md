@@ -24,3 +24,4 @@ knitr::include_graphics('figures/my_image.png')
 ```
 ````
 
+See also: https://jacob-gg.github.io/accessibility-statlab/
